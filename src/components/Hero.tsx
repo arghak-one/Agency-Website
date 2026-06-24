@@ -162,7 +162,7 @@ export default function Hero({ onOpenProject }: HeroProps) {
               >
                 <div className="relative w-full h-full p-2.5 rounded-full bg-white/70 backdrop-blur-md border border-white shadow-[0_25px_60px_rgba(37,99,235,0.12)] hover:rotate-1 transition-transform duration-500 overflow-hidden">
                   <img
-                    src="/src/assets/images/hero_entrepreneur_1782144970965.jpg"
+                    src="/images/hero_entrepreneur_1782144970965.jpg"
                     alt="Nexora Entrepreneur"
                     className="w-full h-full rounded-full object-cover object-center transform hover:scale-[1.03] transition-transform duration-700"
                     referrerPolicy="no-referrer"

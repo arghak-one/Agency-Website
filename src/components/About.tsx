@@ -79,7 +79,7 @@ export default function About() {
           <div className="lg:col-span-6 relative">
             <div className="p-3 glass-card rounded-3xl shadow-xl hover:-rotate-1 transition-all duration-500 overflow-hidden">
               <img
-                src="/src/assets/images/about_team_1782142757748.jpg"
+                src="/images/about_team_1782142757748.jpg"
                 alt="Nexora Collaborative Strategy Meeting"
                 className="w-full h-auto rounded-2xl object-cover hover:scale-101 transition-transform duration-500 shadow-sm"
                 referrerPolicy="no-referrer"
