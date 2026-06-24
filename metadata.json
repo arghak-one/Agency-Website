@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Digital Agency",
+  "description": "World-class premium digital agency website for custom websites, AI automation, chatbots, and CRM workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
